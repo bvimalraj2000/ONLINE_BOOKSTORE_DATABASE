@@ -1,0 +1,191 @@
+Book_Id,Title,Author,Publication_year,Price,Available_Quantity
+B-00001,The Rabbit Hutch,Tess Gunty,2022,1935,5
+B-00002,Paris: The Memoir,Paris Hilton,2023,406,10
+B-00003,Forever Home,Graham Norton,2022,985,10
+B-00004,Double-Decker Dreams,Lindsay MacMillan,2023,1792,6
+B-00005,We Were Liars,E. Lockhart,2014,232,7
+B-00006,Measure What Matters,John Doerr,2017,468,5
+B-00007,One Tough Cookie,Delise Torres,2023,1442,4
+B-00008,Try Not to Breathe,David Bell,2023,469,12
+B-00009,The Paper Palace,Miranda Cowley Heller,2021,295,9
+B-00010,The Night Circus,Erin Morgenstern,2011,371,8
+B-00011,Musical Tables: Poems,Billy Collins,2022,1611,7
+B-00012,Horse,Geraldine Brooks,2022,650,4
+B-00013,The Silent Patient,Alex Michaelides,2019,213,8
+B-00014,Maddalena and the Dark,Julia Fine,2023,1258,7
+B-00015,The Lovely Bones,Alice Sebold,2002,280,12
+B-00016,The Quarry Girls,Jess Lourey,2022,882,9
+B-00017,The Undomestic Goddess,Sophie Kinsella,2005,265,15
+B-00018,The Gulf,Rachel Cochran,2023,830,20
+B-00019,Fingersmith,Sarah Waters,2002,499,17
+B-00020,My Husband,Maud Ventura,2021,487,25
+B-00021,Paper Towns,John Green,2008,295,30
+B-00022,Rock Bottom Girl,Lucy Score,2019,1452,15
+B-00023,The Art Book,Phaidon Press,1997,895,9
+B-00024,No Exit,Taylor  Adams,2018,421,12
+B-00025,"Will Grayson, Will Grayson",John Green,2010,244,10
+B-00026,Stumbling on Happiness,Daniel Todd Gilbert,2006,577,17
+B-00027,Slaying the Shadow Prince,Helen Scheuerer,2023,1267,20
+B-00028,Best of Friends,Kamila Shamsie,2022,404,20
+B-00029,Indigo Isle,T.I. Lowe,2023,1744,27
+B-00030,Twenties Girl,Sophie Kinsella,2009,245,12
+B-00031,Batman - One Bad Day: The Riddler,Tom King,2023,1097,18
+B-00032,What Have We Done,Alex Finlay,2023,1802,12
+B-00033,Once More with Feeling,Elissa Sussman,2023,277,23
+B-00034,The Evolution of God,Robert Wright,2009,344,20
+B-00035,Sweet Sweet Revenge Ltd.,Jonas Jonasson,2020,259,10
+B-00036,The House by the Sea,Louise Douglas,2020,1699,27
+B-00037,Duas Noites em Lisboa,Chris  Pavone,2022,1500,30
+B-00038,"Fruits Basket, Vol. 4",Natsuki Takaya,2000,1427,24
+B-00039,The Paris Daughter,Kristin Harmel,2023,393,20
+B-00040,The House Is on Fire,Rachel Beanland,2023,1794,15
+B-00041,The Bones of the Story,Carol Goodman,2023,1112,32
+B-00042,John Adams,David McCullough,2001,729,22
+B-00043,Give Me a Sign,Anna Sortino,2023,1296,6
+B-00044,The Red Tent,Anita Diamant,1997,447,10
+B-00045,Inciting Joy: Essays,Ross Gay,2022,1120,19
+B-00046,Accidental Attachment,Max Monroe,2023,990,31
+B-00047,City of Dreams,Don Winslow,2023,1585,8
+B-00048,Future of Geography,Tim  Marshall,2023,589,30
+B-00049,Thirst,Varsha Bajaj,2022,670,15
+B-00050,Love Letters for Joy,Melissa See,2023,1400,9
+B-00051,Glad My Mom Died,Jennette McCurdy,2022,420,12
+B-00052,The Wedding Planner,Danielle Steel,2023,1857,10
+B-00053,Life,Keith Richards,2010,2599,17
+B-00054,Poems for the Signs,Michaela Angemeer,2022,1976,20
+B-00055,Wrong For You,Harloe Rae,2023,1911,20
+B-00056,Donde todo brilla,Alice Kellen,2023,1791,27
+B-00057,Alone,Megan E. Freeman,2021,1365,12
+B-00058,Greenlights,Matthew McConaughey,2020,426,18
+B-00059,All Good People Here,Ashley Flowers,2022,1435,12
+B-00060,DCeased,Tom    Taylor,2019,948,23
+B-00061,Friend Zoned,Evelyn Sola,2023,1650,20
+B-00062,Cuddy,Benjamin Myers,2023,1825,10
+B-00063,Big Summer,Jennifer Weiner,2020,1204,24
+B-00064,The Sun Down Motel,Simone St. James,2020,5500,30
+B-00065,The Possibilities,Yael Goldstein-Love,2023,1746,24
+B-00066,The Smart Cookie,Jory John,2021,1133,20
+B-00067,Do Not Disturb,Freida McFadden,2021,2658,15
+B-00068,The Block Party,Jamie        Day,2023,1813,20
+B-00069,The Satsuma Complex,Bob Mortimer,2022,875,17
+B-00070,Home Body,Rupi Kaur,2020,630,25
+B-00071,Bezmatek,Mira Marcin,2020,1700,30
+B-00072,Breathe: A Life in Flow,Rickson Gracie,2021,1889,15
+B-00073,I'm Glad My Mom Died,Jennette McCurdy,2022,420,9
+B-00074,Burn the Negative,Josh Winning,2023,879,12
+B-00075,Whisper,Brian Dearborn,2023,449,10
+B-00076,Tell Me How This Ends,Jo Leevers,2023,834,6
+B-00077,The Tryout: A Graphic Novel,Christina Soontornvat,2022,2790,7
+B-00078,The London Girls,Soraya M. Lane,2022,850,5
+B-00079,The Half Moon,Mary Beth Keane,2023,1577,4
+B-00080,People We Meet on Vacation,Emily Henry,2021,4885,1
+B-00081,"Fruits Basket, Vol. 5",Natsuki Takaya,2000,1432,9
+B-00082,Weyward,Emilia Hart,2023,1616,8
+B-00083,The Universe in a Nutshell,Stephen Hawking,2001,4286,7
+B-00084,Ask for Andrea,Noelle W. Ihli,2022,682,4
+B-00085,We Do What We Do in the Dark,Michelle  Hart,2022,1499,8
+B-00086,The Perfect Son,Freida McFadden,2019,2589,7
+B-00087,Girlfriend on Mars,Deborah  Willis,2023,1990,12
+B-00088,"Skip and Loafer, Vol. 3",Misaki Takamatsu,2020,670,9
+B-00089,Maggie Moves On,Lucy Score,2022,619,25
+B-00090,Morbidly Yours,Ivy Fairbanks,2023,1400,30
+B-00091,Homegoing,Yaa Gyasi,2016,295,15
+B-00092,My Body,Emily Ratajkowski,2021,490,9
+B-00093,Little Monsters,Adrienne Brodeur,2023,1855,12
+B-00094,A Tangled Web,Leslie Rule,2020,1283,27
+B-00095,Now Is Not the Time to Panic,Kevin    Wilson,2022,1009,24
+B-00096,Lo que hay,Sara Torres,2022,1978,24
+B-00097,The Butterfly Circle,Mary Carroll Leoson,2023,817,20
+B-00098,The Bletchley Women,Patricia  Adrian,2022,861,18
+B-00099,Rework,Jason Fried,2010,405,7
+B-00100,This Is Where It Ends,Cindy K. Sproles,2023,1263,11
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
